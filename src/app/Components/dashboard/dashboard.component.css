@@ -1,0 +1,9 @@
+#categoryid{
+  margin-top: 20px;
+  padding-left: 25px;
+
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
